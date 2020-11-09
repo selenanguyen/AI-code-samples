@@ -1,7 +1,7 @@
 # AI-code-samples
-This repository includes code samples from my Artificial Intelligence course.
+This repository includes python code samples from my Artificial Intelligence course.
 
-## Assignment and Topics
+## Assignment Topics
 - Assignment 1: Using different heuristics to solve a fifteen puzzle
 - Assignment 2: Minimax and alpha-beta pruning
 - Assignment 3: Bayesian networks
