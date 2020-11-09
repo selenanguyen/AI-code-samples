@@ -1,0 +1,8 @@
+Reading mode...MDP
+Reading transition probabilities...
+D D P R D
+R R G P D
+U U P D D
+U U L L L
+Calculating average utility...
+Average utility per move: 20.98
